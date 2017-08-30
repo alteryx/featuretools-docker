@@ -3,11 +3,11 @@ source for featuretools docker image
 
 ## Overview
 
-[https://www.docker.com/](Docker)
+[Docker](https://www.docker.com/)
 
 ## Setup
 
-1. Install Docker on your system, following the instructions on the [https://docs.docker.com/engine/installation/](Docker website).
+1. Install Docker on your system, following the instructions on the [Docker website](https://docs.docker.com/engine/installation/).
 2. Clone this repo. ``git clone https://github.com/FeatureLabs/featuretools-docker.git``
 3. Build the docker image ``docker build -t IMAGE_NAME PATH_TO_GIT_REPO``
 
@@ -33,4 +33,4 @@ The notebook can also be configured to be password protected and use https. The 
 
 ## More configuration options
 
-This docker image is based on a jupyter notebook image maintained by the Jupyter team.  While the "What it Gives You" section of their [https://github.com/jupyter/docker-stacks/tree/master/minimal-notebook](github repository) doesn't describe the python installation of this image, the Notebook Options, Docker Options, and SSL Certificates sections are very useful for configuring the notebook to your needs.  The Jupyter Notebook documentation is also a good resource, with the [https://jupyter-notebook.readthedocs.io/en/latest/config.html](configuration section) and the [https://jupyter-notebook.readthedocs.io/en/latest/security.html](security section) being the most relevant.
+This docker image is based on a jupyter notebook image maintained by the Jupyter team.  While the "What it Gives You" section of their [github repository](https://github.com/jupyter/docker-stacks/tree/master/minimal-notebook) doesn't describe the python installation of this image, the Notebook Options, Docker Options, and SSL Certificates sections are very useful for configuring the notebook to your needs.  The Jupyter Notebook documentation is also a good resource, with the [configuration section](https://jupyter-notebook.readthedocs.io/en/latest/config.html) and the [security section](https://jupyter-notebook.readthedocs.io/en/latest/security.html) being the most relevant.
