@@ -1,9 +1,5 @@
 # featuretools-docker
-source for featuretools docker image
-
-## Overview
-
-[Docker](https://www.docker.com/)
+This is the source for a Featuretools docker image. It uses docker to provision Featuretools with a Jupyter notebook server. Details for Docker can be found on their [website](https://www.docker.com/). For further details on Featuretools, check the [website](https://www.featuretools.com) or the [documentation](https://www.docs.featuretools.com).
 
 ## Setup
 
