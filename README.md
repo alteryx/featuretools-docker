@@ -4,7 +4,7 @@ This is the source for a Featuretools docker image. It uses docker to provision 
 ## Setup
 
 1. Install Docker on your system, following the instructions on the [Docker website](https://docs.docker.com/engine/installation/).
-2. Clone this repo. ``git clone https://github.com/FeatureLabs/featuretools-docker.git``
+2. Clone this repo. ``git clone https://github.com/featuretools/featuretools-docker``
 3. Build the docker image ``docker build -t IMAGE_NAME PATH_TO_GIT_REPO``
 
 ## Launching a container
