@@ -30,3 +30,14 @@ The notebook can also be configured to be password protected and use https. The 
 ## More configuration options
 
 This docker image is based on a jupyter notebook image maintained by the Jupyter team.  While the "What it Gives You" section of their [github repository](https://github.com/jupyter/docker-stacks/tree/master/minimal-notebook) doesn't describe the python installation of this image, the Notebook Options, Docker Options, and SSL Certificates sections are very useful for configuring the notebook to your needs.  The Jupyter Notebook documentation is also a good resource, with the [configuration section](https://jupyter-notebook.readthedocs.io/en/latest/config.html) and the [security section](https://jupyter-notebook.readthedocs.io/en/latest/security.html) being the most relevant.
+
+## Feature Labs
+<a href="https://www.featurelabs.com/">
+    <img src="http://www.featurelabs.com/wp-content/uploads/2017/12/logo.png" alt="Featuretools" />
+</a>
+
+Featuretools is an open source project created by [Feature Labs](https://www.featurelabs.com/). To see the other open source projects we're working on visit Feature Labs [Open Source](https://www.featurelabs.com/open). If building impactful data science pipelines is important to you or your business, please [get in touch](https://www.featurelabs.com/contact.html).
+
+### Contact
+
+Any questions can be directed to help@featurelabs.com
